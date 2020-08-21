@@ -4,6 +4,3 @@
 [submodule "2.UAV_Motion_Planning"]
 	path = 2.UAV_Motion_Planning
 	url = https://github.com/Ashutosh-Badave/2.UAV_Motion_Planning.git
-[submodule "3.EKF_estimator_for_Drone"]
-	path = 3.EKF_estimator_for_Drone
-	url = https://github.com/Ashutosh-Badave/3.EKF_estimator_for_Drone.git
