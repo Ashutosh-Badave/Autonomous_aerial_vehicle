@@ -23,8 +23,8 @@ in it but the submodule folders will be empty.Don't worry now you need to do two
 3. Now you will be having all the repositories cloned properly. I have added project specific **_README_** for every 
 repository, in which I have provided detailed instructions for easy to setup, test and code structure.
 
-4. _Backyard_flyer_ and _motion_planning_ projects are developed in python environment; _controller_ and _estimator_ projects
-are designed in C++ which are easy to built using CMake. 
+4. `_Backyard_flyer_` and `_motion_planning_` projects are developed in python environment; `_controller_` and 
+`_estimator_` projects are designed in C++ which are easy to built using CMake. 
 
  
 
