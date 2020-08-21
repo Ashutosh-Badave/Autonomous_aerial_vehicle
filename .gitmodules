@@ -7,3 +7,6 @@
 [submodule "4.EKF_estimator_for_Drone"]
 	path = 4.EKF_estimator_for_Drone
 	url = https://github.com/Ashutosh-Badave/4.EKF_estimator_for_Drone.git
+[submodule "3.Controller_for_drone"]
+	path = 3.Controller_for_drone
+	url = https://github.com/Ashutosh-Badave/3.Controller_for_drone.git
