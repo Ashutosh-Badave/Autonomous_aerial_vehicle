@@ -1,3 +1,6 @@
 [submodule "1.Backyard_Flyer"]
 	path = 1.Backyard_Flyer
 	url = https://github.com/Ashutosh-Badave/1.Backyard_Flyer.git
+[submodule "2.UAV_Motion_Planning"]
+	path = 2.UAV_Motion_Planning
+	url = https://github.com/Ashutosh-Badave/2.UAV_Motion_Planning.git
